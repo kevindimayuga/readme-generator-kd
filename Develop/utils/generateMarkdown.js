@@ -45,8 +45,8 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## Contact Information
-  - GitHub Username: ${data.userName}
-  - Contact Email: ${data.userEmail}
+  - GitHub: ${data.userName}
+  - Email: ${data.userEmail}
 
 `;
 }
