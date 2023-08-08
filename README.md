@@ -18,8 +18,11 @@ The motivation behind this project was to learn how to utilize the skills I've l
 
 ## Webpage Screenshot
 
-![readme generator command line screenshot](./assets/images/kevindimayuga.github.io_weather-dashboard-kd.png)
-![example generated readme screenshot](./assets/images/kevindimayuga.github.io_weather-dashboard-kd.png)
+- CLI application test example
+![readme generator command line example screenshot](./assets/images/cli-application-test-kd.PNG)
+
+- Generated README test example
+![generated README example screenshot](./assets/images/kevindimayuga.github.io_weather-dashboard-kd.png)
 
 ## Table of Contents
 

@@ -87,19 +87,20 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    fs.writeToFile(fileName, generateMarkdown(data), function(err){
+    fs.writeToFile(fileName, generateMarkdown(data), function(err) {
         if (err) {
             return console.log(err);
         }
-    })
+    });
 }
 
 // TODO: Create a function to initialize app
 function init() {
-    inquirer.prompt(questions).then((data => {
-        console.log(JSON.stringify(data, null, ' '));
-        data.getLicense = getLicense(data.license);
-        // writeToFile('./example/README.md', data);
+    inquirer.prompt(questions)
+        .then((data => {
+            console.log(JSON.stringify(data, null, ' '));
+            data.getLicense = getLicense(data.license);
+            writeToFile('./assets/images/README.md', data);
     }))
 }
 
