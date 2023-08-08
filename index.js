@@ -97,11 +97,11 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions)
-        .then((data => {
+        .then((data) => {
             console.log(JSON.stringify(data, null, ' '));
             data.getLicense = getLicense(data.license);
             writeToFile('./assets/images/README.md', data);
-    }))
+    });
 }
 
 // Function call to initialize app
