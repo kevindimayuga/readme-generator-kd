@@ -61,7 +61,12 @@ Node.js Updates
 
 ## Usage
 
-- 
+- Clone repo onto local device
+- Open repo in local CLI
+- Make sure node packages are installed by running 'npm i'
+- Run 'node index.js' in CLI
+- Fill out reach question/prompt for the readme generator
+- Open up generated readme with all sections/information
 
 ## Credits
 
