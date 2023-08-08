@@ -100,7 +100,7 @@ function init() {
         .then((data) => {
             console.log(JSON.stringify(data, null, ' '));
             data.getLicense = getLicense(data.license);
-            writeToFile('./assets/images/README.md', data);
+            writeToFile('./output/README.md', data);
     });
 }
 
