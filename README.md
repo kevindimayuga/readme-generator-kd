@@ -14,14 +14,14 @@ The motivation behind this project was to learn how to utilize the skills I've l
 - GitHub Repo URL: https://github.com/kevindimayuga/readme-generator-kd
 - GitHub Pages WebPage Deployment URL: n/a
 
-- Since this will be a command-line application and not a webpage application, you can use the following link to access a video walkthrough on how to use the README generator application. LINK
+- Since this will be a command-line application and not a webpage application, you can use the following [LINK]() to access a video walkthrough on how to use the README generator application.
 
 ## Webpage Screenshot
 
-- CLI application test example
+#### CLI application test example:
 ![readme generator command line example screenshot](./assets/images/cli-application-test-kd.PNG)
 
-- Generated README test example
+#### Generated README test example:
 ![generated README example screenshot](./assets/images/kevindimayuga.github.io_weather-dashboard-kd.png)
 
 ## Table of Contents
@@ -30,8 +30,8 @@ The motivation behind this project was to learn how to utilize the skills I've l
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Badges]
-- [Features]
+- [Badges](#badges)
+- [Features](#features)
 - [Contributions](#contributing)
 - [Tests](#tests)
 - [Contacts](#Contacts)
