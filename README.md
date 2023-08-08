@@ -32,7 +32,7 @@ The motivation behind this project was to learn how to utilize the skills I've l
 - [License](#license)
 - [Badges](#badges)
 - [Features](#features)
-- [Contributions](#contributing)
+- [Contributions](#contributions)
 - [Tests](#tests)
 - [Contacts](#Contacts)
 
@@ -91,7 +91,7 @@ N/A
 
 N/A
 
-## How to Contribute
+## Contributions
 
 N/A
 
