@@ -21,6 +21,9 @@ function getLicense(value) {
 }
 
 // TODO: Create an array of questions for user input
+// Array of questions for user input (title, description, 
+// installation, usage, licenses, contributions, tests, questions)
+
 const questions = [
 
     {
