@@ -1,7 +1,6 @@
 # Professional README Generator
 
-This repo is for module nine's challenge assignment.
-
+M9 - This repo is a README Generator application that will create a README file for the user by using a command-line application.
 
 ## Description
 
